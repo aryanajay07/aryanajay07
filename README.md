@@ -6,7 +6,6 @@
 🎓 Computer Engineering Graduate (GPA: 3.8) from Pokhara University  
 📍 Based in Kathmandu, Nepal  
 💼 Specializing in building responsive, accessible web applications  
-🌱 Currently exploring advanced Next.js patterns and TypeScript
 
 ---
 
